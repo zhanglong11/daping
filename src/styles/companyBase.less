@@ -1,0 +1,45 @@
+@import url('~@/styles/common');
+.app-wrapper {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  .custom-menu {
+    margin-top: 15px;
+    padding: 0 15px;
+    /deep/.el-tabs__header {
+      margin: 0;
+    }
+    /deep/.el-tabs__item {
+      background: #fff;
+      &.is-active {
+        background: #5e7bdf;
+        color: #fff;
+      }
+    }
+  }
+  .main-wrap {
+    padding: 15px;
+    flex: 1;
+    overflow-y: auto;
+    .scrollbar;
+  }
+}
+/deep/.is-padding {
+  padding-bottom: 60px;
+}
+/deep/.footer-btn {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: white;
+  box-shadow: 5px 0 7px 0 #bbb;
+  z-index: 3;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  button {
+    margin: 10px 10px 10px 0;
+    padding: 12px 20px;
+  }
+}

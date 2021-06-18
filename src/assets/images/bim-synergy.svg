@@ -1,0 +1,27 @@
+<svg id="BIM协同" xmlns="http://www.w3.org/2000/svg" width="344" height="120" viewBox="0 0 86 30">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #080367;
+        fill-opacity: 0.01;
+      }
+
+      .cls-2 {
+        font-size: 14px;
+        font-family: "PingFang SC";
+        font-weight: 700;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <rect id="矩形_683" data-name="矩形 683" class="cls-1" width="86" height="30"/>
+  <text id="BIM协同-2" data-name="BIM协同" class="cls-2" x="27.05" y="20.353">BIM协同</text>
+  <path id="形状_20" data-name="形状 20" class="cls-3" d="M11887.6,2085.17h1.4V2086h-4v-12.98l-6,1.84v-0.57l6.6-2.29,2,1.59v11.58h0Zm-10.7-3.56v-1.28l3.1-.76v1.46Zm0,4.39v-1.34l3.1-.19V2086h-3.1Zm0-2.23v-1.27l3.1-.51v1.46Zm0-4.39v-1.34l3.1-.95v1.53Zm6.6-3.82V2086h-2.6v-10.31l-5,1.53V2086h-0.9v-9.23l6.7-2.23Zm0,0" transform="translate(-11868 -2065)"/>
+</svg>
